@@ -138,4 +138,36 @@ hostnames and addresses noted above.
 | **Infrastructure** | Docker, remote GPU pods, SSH tunnelling, NVIDIA Container Toolkit, custom MCP server |
 | **ML / CV** | PyTorch, PatchCore, DINOv2/v3, WideResNet, TensorRT, NVIDIA DeepStream, MVTec AD & AD 2 |
 
+---
+
+## How I think about AI
+
+Pre AI, the role of an engineer was to build the car from the components you got. I now think of AI
+as the car and the driver, that just needs to be fed a destination, and you make sure it takes the
+right exits from the freeway.
+
+I was initially hesitant to give the keys to the coding sessions to the AI, because my gut feeling
+after being a software developer for 6 years was to understand and trace each line of code that gets
+hit in the execution, and then prepare an abstract high level view of the flow. That allowed me to
+trust the working of the code, and to identify bugs and crashes when they happened.
+
+But now it's a completely different story. It understands packages and dependencies like I never
+did, and is able to write code in ways I could never think of, because of the huge knowledge base
+this thing is trained on, compared to my puny little brain which needs to tackle the real life
+problems like searching for jobs and earning money to keep myself fed, and play ranked games to
+release the pent up stress when things don't go your way.
+
+Now I understand why people are pulling out their pitchforks when they see AI generated content, but
+in the long term this thing is exactly what a person who writes code would want. It just frees up so
+much time and allows you to experiment with all the ideas and side projects you wanted to do. I made
+3D animations and a couple of games, and all it needed was my theme and taste to build it, instead
+of learning C# and Blender. (I do have a solid base in C, which was the first programming language I
+learnt, and I understand the concepts and can trace code if needed.)
+
+Anyway, if you've read until here, maybe I might get an interview with your company.
+
+Cheers, and thanks for reading through not AI slop but human rant.
+
+---
+
 **Akshay Anil** · Berlin, Germany · [github.com/akshay131996](https://github.com/akshay131996) · [akshay131996.github.io](https://akshay131996.github.io/)
